@@ -1,0 +1,23 @@
+.container{
+    margin-top: 60px;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+.signup-form{
+    width: 400px;
+    margin:0 auto 0 auto;
+}
+
+.ng-invalid.ng-dirty{
+    border-color:red;
+}
+
+.ng-valid.ng-dirty{
+    border-color:green;
+}
+
+.form {
+    transition:0.5s linear all;
+    background: white;
+}
